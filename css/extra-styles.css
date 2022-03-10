@@ -1,0 +1,14 @@
+/* Created by: Evgeny Vovk
+* Created on: Fab 2022
+* This CSS file defines the style for index.html ICS2O-Unit1-07-HTML
+*/
+
+body {
+  background-color: blue;
+}
+
+h4 {
+  background-color: purple;
+  margin-right: 40em;
+  border: 3px solid white;
+}
